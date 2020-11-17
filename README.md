@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on ...
+
+- [JulioSenha/mail4delphi](https://github.com/juliosenha/mail4delphi) - Mail4Delphi uses the Indy component to send the email.!
+
+### :octocat: Statistics
+
+![github stats](https://github-readme-stats.vercel.app/api?username=juliosenha&show_icons=true&hide_title=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosenha&layout=compact)
+
 <!--
 **juliosenha/juliosenha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
