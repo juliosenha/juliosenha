@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-juliosenha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliosenha/)](https://www.linkedin.com/in/juliosenha/)
-[![Twitter Badge](https://img.shields.io/badge/-@juliosenha_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/juliosenha_)](https://twitter.com/juliosenha_)
+[![Twitter Badge](https://img.shields.io/badge/-@julio_senha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julio_senha)](https://twitter.com/julio_senha)
 [![Gmail Badge](https://img.shields.io/badge/-juliosenha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliosenha@gmail.com)](mailto:juliosenha@gmail.com)
 
 ### 🔭 I’m currently working on ...
