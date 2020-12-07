@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" alt="GIF" src="https://github.com/juliosenha/juliosenha/blob/main/code.gif?raw=true" width="500" height="320" />
