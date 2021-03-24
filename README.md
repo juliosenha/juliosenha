@@ -4,9 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@julio_senha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julio_senha)](https://twitter.com/julio_senha)
 [![Gmail Badge](https://img.shields.io/badge/-juliosenha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliosenha@gmail.com)](mailto:juliosenha@gmail.com)
 
-### 🔭 I’m currently working on ...
 
-- [JulioSenha/mail4delphi](https://github.com/juliosenha/mail4delphi) - Mail4Delphi uses the Indy component to send the email.!
 
 ### :octocat: Statistics
 
