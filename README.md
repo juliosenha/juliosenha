@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliosenha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliosenha@gmail.com)](mailto:juliosenha@gmail.com)
 
 
-
+![Snake animation](https://github.com/juliosenha/juliosenha/blob/output/github-contribution-grid-snake.gif)<br>
 ### :octocat: Statistics
-
-![github stats](https://github-readme-stats.vercel.app/api?username=juliosenha&show_icons=true&hide_title=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=juliosenha)<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=juliosenha&show_icons=true&hide_title=true)<br>
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosenha&langs_count=10&layout=compact)
 
 <!--
