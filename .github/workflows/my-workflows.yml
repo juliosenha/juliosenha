@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate animation
 
 on:
   schedule: # execute every 12 hours
@@ -24,4 +24,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
